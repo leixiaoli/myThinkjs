@@ -1,0 +1,2 @@
+# myThinkjs
+test
