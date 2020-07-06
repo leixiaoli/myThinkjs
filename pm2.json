@@ -2,7 +2,7 @@
   "apps": [{
     "name": "myThinkjs",
     "script": "production.js",
-    "cwd": "i:\test\myThinkjs",
+    "cwd": "https://github.com/leixiaoli/myThinkjs.git",
     "exec_mode": "fork",
     "max_memory_restart": "1G",
     "autorestart": true,
